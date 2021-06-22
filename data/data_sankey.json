@@ -1,0 +1,25 @@
+{
+"links":[
+{"source":"HS Grad","target":"No College Record Found","value":0.5},
+{"source":"HS Grad","target":"Enrolled 2-Year","value":0.5},
+{"source":"Enrolled 2-Year","target":"Transferred to 4-Year | 2-Year Degree","value":0.5},
+{"source":"Transferred to 4-Year | 2-Year Degree","target":"Graduated 4-Year","value":0.5},
+{"source":"Transferred to 4-Year | No 2-Year Degree","target":"Graduated 4-Year","value":0.5},
+{"source":"Enrolled 2-Year","target":"Transferred to 4-Year | No 2-Year Degree","value":0.5},
+{"source":"Enrolled 2-Year","target":"Graduated 2-Year","value":0.5},
+{"source":"Enrolled 2-Year","target":"Dropout","value":0.5},
+{"source":"HS Grad","target":"Enrolled 4-Year","value":0.5},
+{"source":"Enrolled 4-Year","target":"Graduated 4-Year","value":0.5},
+{"source":"Enrolled 4-Year","target":"Dropout","value":0.5}
+],
+"nodes":[
+{"name":"HS Grad"},
+{"name":"No College Record Found"},
+{"name":"Enrolled 2-Year"},
+{"name":"Enrolled 4-Year"},
+{"name":"Transferred to 4-Year | 2-Year Degree"},
+{"name":"Transferred to 4-Year | No 2-Year Degree"},
+{"name":"Graduated 2-Year"},
+{"name":"Graduated 4-Year"},
+{"name":"Dropout"}
+]}
